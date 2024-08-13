@@ -29,4 +29,20 @@ b)Backend:
 c)IDE used:
   Eclipse IDE (for development)
  
+#Login page
+![image](https://github.com/user-attachments/assets/c2a90e35-7d9f-4f48-92d7-b1931b9f2fcd)
+
+#Registration page
+![image](https://github.com/user-attachments/assets/f6b082de-74b4-4595-81bd-81e40137b45a)
+![image](https://github.com/user-attachments/assets/97a8f77c-7a5f-4722-8dee-5e0378d05120)
+
+#Home page
+![image](https://github.com/user-attachments/assets/bc1ee8de-9bc2-4763-a8c0-6054380d2430)
+
+#Products page
+![image](https://github.com/user-attachments/assets/42d7598e-e685-4faf-8fe4-7f0b5fea5ea5)
+
+
+
+
 
